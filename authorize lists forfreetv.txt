@@ -1,0 +1,24 @@
+! This is the authorized list for OQEE or FreeTV users 
+! Made by Koje-FR
+! For AdGuardHome
+! Free to use
+! Enjoy 
+!
+!
+!
+!
+
+
+||api.oqee.net^
+||tv.free.fr^
+||api.oqee.net^
+||sentry.oqee.net^
+||tv.free.fr^
+||auth.oqee.net^
+||api.privacy-center.org^
+||oqee.tv^
+||api.privacy-center.org^
+||img2.oqee.net^
+||img1.oqee.net^
+||api-proxad.oqee.net^
+||smarttv.oqee.net^
