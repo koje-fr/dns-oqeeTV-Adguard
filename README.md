@@ -1,2 +1,3 @@
 # dns-oqeeTV-Adguard
- Here is the list of all DNS queries for Free TV users to add to the allowed lists
+ Voici la liste des dns free tv à autoriser pour utiliser le service 
+ Pour Adguardhome et Pihole à verifier 
