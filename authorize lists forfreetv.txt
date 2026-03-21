@@ -22,3 +22,7 @@
 ||img1.oqee.net^
 ||api-proxad.oqee.net^
 ||smarttv.oqee.net^
+||error.oqee.net^
+||license.oqee.net^
+||replay-01.oqee.net^
+||replay-04.oqee.net^
